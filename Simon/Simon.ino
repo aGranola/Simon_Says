@@ -41,7 +41,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   int level;
-  const int totalLevel = 3;
+  const int totalLevel = 21;
   int ledSequence[totalLevel];
   int buttonSequence[totalLevel];
   bool levelComplete = true;
